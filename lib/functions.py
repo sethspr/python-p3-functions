@@ -14,3 +14,7 @@ def add(num1, num2):
 
 def halve(number):
     pass
+
+def my_function(param):
+    print("Running my_function")
+    return param + 1
